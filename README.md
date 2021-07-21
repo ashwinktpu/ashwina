@@ -15,7 +15,7 @@ This is, **Ashwina Kumar**.
 ![GitHub Presence](https://github-readme-stats.vercel.app/api?username=ashwina&count_private=true&show_icons=true&theme=dracula)
 
 
-### :space_invader: More about me. (wip)
+### :space_invader: More about me.
 - 🌱 [Education]()
 - 📝 [Publications]()
 - ⏰ [Appointments]()
