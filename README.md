@@ -1,16 +1,25 @@
-### Hi there 👋
+#### ⚛️ Research Interests: Parallel Programming, Programming Systems and Architecture,Graph Processing.
 
-<!--
-**ashwina/ashwina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :wave: Hi.
+This is, **Ashwina Kumar**. 
 
-Here are some ideas to get you started:
+* :email: kumarashwina31@gmail.com
+* :cat: [github/neoblizz](https://github.com/neoblizz)
+* :mailbox: California, USA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Feel free to reach to me in case of any questions*
+
+### :sun_with_face: At glance.
+> The following rating represents GitHub presence; S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone). The values are calculated by using the cumulative distribution function using commits, contributions, issues, stars, pull requests, followers, and owned repositories (see: [github stats](https://github.com/anuraghazra/github-readme-stats)).
+
+![GitHub Presence](https://github-readme-stats.vercel.app/api?username=ashwina&count_private=true&show_icons=true&theme=dracula)
+
+
+### :space_invader: More about me. (wip)
+- 🌱 [Education]()
+- 📝 [Publications]()
+- ⏰ [Appointments]()
+- 🎓 [Reviewing]()
+- 🏆 Awards
+- 🍍 [Conferences & Talks]()
+- 🎉 Contributions
