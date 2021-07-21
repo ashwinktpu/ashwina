@@ -4,8 +4,8 @@
 This is, **Ashwina Kumar**. 
 
 * :email: kumarashwina31@gmail.com
-* :cat: [github/neoblizz](https://github.com/neoblizz)
-* :mailbox: California, USA
+* :cat: [github/ashwina](https://github.com/ashwina)
+* :mailbox: India
 
 *Feel free to reach to me in case of any questions*
 
