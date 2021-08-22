@@ -9,6 +9,14 @@ This is, **Ashwina Kumar**.
 
 *Feel free to reach to me in case of any questions*
 
+#### Catch me on  
+[<img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-%234885ED.svg?&style=for-the-badge&logo=Google%20Scholar&logoColor=white" />](https://scholar.google.com/citations?user=6IPsRzoAAAAJ&hl=en)
+[<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />]()
+[<img alt="Twitter" src="https://img.shields.io/badge/Twitter-%2300ACEE.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />](https://twitter.com/ashwina)
+[<img alt="AngelList" src="https://img.shields.io/badge/AngelList-%23000000.svg?&style=for-the-badge&logo=AngelList&logoColor=white" />]()
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />]()
+[<img alt="Steam" src="https://img.shields.io/badge/Steam-%2312100E.svg?&style=for-the-badge&logo=Steam&logoColor=white" />]()
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fashwina%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
