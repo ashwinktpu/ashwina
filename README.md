@@ -12,7 +12,7 @@ This is, **Ashwina Kumar**.
 #### Catch me on  
 [<img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-%234885ED.svg?&style=for-the-badge&logo=Google%20Scholar&logoColor=white" />](https://scholar.google.com/citations?user=6IPsRzoAAAAJ&hl=en)
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />]()
-[<img alt="Twitter" src="https://img.shields.io/badge/Twitter-%2300ACEE.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />](https://twitter.com/ashwina)
+[<img alt="Twitter" src="https://img.shields.io/badge/Twitter-%2300ACEE.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />](https://twitter.com/ImAshwina)
 [<img alt="AngelList" src="https://img.shields.io/badge/AngelList-%23000000.svg?&style=for-the-badge&logo=AngelList&logoColor=white" />]()
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />]()
 [<img alt="Steam" src="https://img.shields.io/badge/Steam-%2312100E.svg?&style=for-the-badge&logo=Steam&logoColor=white" />]()
