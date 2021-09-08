@@ -1,4 +1,4 @@
-#### ⚛️ Research Interests: Parallel Programming, Graph Algorithms, GPU Programming
+#### ⚛️ Research Interests: Parallel Programming, Graph Algorithms
 
 ### :wave: Hi.
 This is, **Ashwina Kumar**. 
