@@ -3,7 +3,7 @@
 ### :wave: Hi.
 This is, **Ashwina Kumar**. 
 
-* :email: kumarashwina31@gmail.com
+* :email: NA
 * :cat: [github/ashwina](https://github.com/ashwina)
 * :mailbox: India
 
